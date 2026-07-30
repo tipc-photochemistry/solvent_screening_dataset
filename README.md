@@ -1,7 +1,7 @@
 # solvent_screening_data
 The datasets generated and/or analyzed during the current study, along with the source code for the machine learning models
 
-## Dataset
+## Datasets
 
 - ER-100 dataset
   - ER-100 dataset is an EUV resist dataset, containing the molecular descriptor values of 100 resist molecules. 
@@ -18,7 +18,7 @@ The datasets generated and/or analyzed during the current study, along with the 
 - SC-E dataset
   - SC-E dataset comprises 100+ samples of solubility classification, collected from the published literature.
 
-## Model
+## Models
 the proposed ML framework to solvent screening in EUV resist systems
 
 - environmental requirements
