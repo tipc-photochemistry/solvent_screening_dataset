@@ -26,7 +26,7 @@ the proposed ML framework to solvent screening in EUV resist systems
   - **python library**: pytorch and numpy
 
 - input file
-feature_input.txt: molecular descriptor values of solvent and resist, 40 columns
+  - the input file name **must be** "feature_input.txt", input data format: descriptor values of solvent + descriptor values of resist, 40 columns
 
 - command
 ```python
@@ -34,4 +34,4 @@ python predict.py
 ```
 
 - output file
-predict_result.txt
+  - the output file is predict_result.txt, containing the prediction results.
